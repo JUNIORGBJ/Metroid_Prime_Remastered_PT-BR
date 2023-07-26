@@ -1,0 +1,2310 @@
+---
+group_count: 101
+atr1_unknown: 4
+entries:
+  "[0552A456]_ArtifactAcquired":
+    attributes: ""
+    contents:
+      - text: Artefato obtido.
+  "[0552A456]_Artifacts":
+    attributes: ""
+    contents:
+      - text: Artefatos
+  "[0552A456]_Boss0ParasiteQueen":
+    attributes: ""
+    contents:
+      - text: Rainha parasita
+  "[0552A456]_Boss1Flagra":
+    attributes: ""
+    contents:
+      - text: Flaahgra
+  "[0552A456]_Boss2Thardus":
+    attributes: ""
+    contents:
+      - text: Thardus
+  "[0552A456]_Boss3OmegaPirate":
+    attributes: ""
+    contents:
+      - text: Pirata Ômega
+  "[0552A456]_Boss4Ridley":
+    attributes: ""
+    contents:
+      - text: Meta Ridley
+  "[0552A456]_Boss5MetroidPrime":
+    attributes: ""
+    contents:
+      - text: Metróide Prime
+  "[0552A456]_Boss6":
+    attributes: "[NotUsed]"
+    contents:
+      - text: " "
+  "[0552A456]_ChozoLore":
+    attributes: ""
+    contents:
+      - text: Legado Chozo
+  "[0552A456]_CombatVisor":
+    attributes: ""
+    contents:
+      - text: Visor de combate
+  "[0552A456]_Continue":
+    attributes: ""
+    contents:
+      - text: Deseja continuar o jogo salvo?
+  "[0552A456]_Creatures":
+    attributes: ""
+    contents:
+      - text: Criaturas
+  "[0552A456]_DownloadedMessage":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Concluído.
+  "[0552A456]_DownloadingMessage":
+    attributes: "[NotUsed]"
+    contents:
+      - text: Escaneando...
+  "[0552A456]_Energy":
+    attributes: "[NotUsed]"
+    contents:
+      - text: ENERGÍA
+  "[0552A456]_EnergyLow":
+    attributes: "[NotUsed]"
+    contents:
+      - text: Energía baixa
+  "[0552A456]_FirstPowerBombPickup":
+    attributes: "[NotUsed]"
+    contents:
+      - text: Bomba de energia obtida.
+  "[0552A456]_FrozenPlayerFirstPerson":
+    attributes: ""
+    contents:
+      - text: "Você foi congelado. Aperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149637
+      - text: rapidamente para se livrar.
+  "[0552A456]_FrozenPlayerMorphBall":
+    attributes: ""
+    contents:
+      - text: Você foi congelado. Plante bombas para se livrar.
+  "[0552A456]_Gameplay":
+    attributes: ""
+    contents:
+      - text: Pesquisas
+  "[0552A456]_HyperMode":
+    attributes: ""
+    contents:
+      - text: Modo Hiper
+  "[0552A456]_IceBeam":
+    attributes: ""
+    contents:
+      - text: Raio de gelo
+  "[0552A456]_InstructionsA":
+    attributes: "[REFERENCED]"
+    contents:
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 52508
+  "[0552A456]_InstructionsLeft":
+    attributes: "[REFERENCED]"
+    contents:
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 707869
+      - text: Sair
+  "[0552A456]_InstructionsMid":
+    attributes: ""
+    contents:
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149673
+      - text: Legenda
+  "[0552A456]_InstructionsRightUniverse":
+    attributes: ""
+    contents:
+      - text: Nível
+  "[0552A456]_InstructionsRightWorld":
+    attributes: ""
+    contents:
+      - text: Mundo
+  "[0552A456]_MapLegendText_GreyDoorText":
+    attributes: ""
+    contents:
+      - text: Míssil
+  "[0552A456]_MapLegendText_NotVisible":
+    attributes: ""
+    contents:
+      - text: "???"
+  "[0552A456]_MapLegendText_PurpleDoorText":
+    attributes: ""
+    contents:
+      - text: Raio Ondular
+  "[0552A456]_MapLegendText_RedDoorText":
+    attributes: ""
+    contents:
+      - text: Raio de Plasma
+  "[0552A456]_MapLegendText_WhiteDoorText":
+    attributes: ""
+    contents:
+      - text: Raio de Gelo
+  "[0552A456]_MessageContinue":
+    attributes: ""
+    contents:
+      - text: "Aperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149660
+      - text: para continuar.
+  "[0552A456]_MissileDepleted":
+    attributes: "[NotUsed]"
+    contents:
+      - text: Vazio
+  "[0552A456]_MissileWarning":
+    attributes: "[NotUsed]"
+    contents:
+      - text: "Poucos\nmísseis"
+  "[0552A456]_No":
+    attributes: ""
+    contents:
+      - text: Não
+  "[0552A456]_PhazonBeam":
+    attributes: "[NotUsed]"
+    contents:
+      - text: Raio de Phazon
+  "[0552A456]_PlasmaBeam":
+    attributes: ""
+    contents:
+      - text: Raio de plasma
+  "[0552A456]_PowerBeam":
+    attributes: ""
+    contents:
+      - text: "Raio "
+  "[0552A456]_QuitGame":
+    attributes: ""
+    contents:
+      - text: "Todos os dados não salvos serão perdidos.\nDeseja sair?"
+  "[0552A456]_RestoreDefaultsMenu":
+    attributes: ""
+    contents:
+      - text: Restaurar configurações originais?
+  "[0552A456]_ScanOutOfRangeMessage":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Item fora de alcance.
+  "[0552A456]_ScanVisor":
+    attributes: ""
+    contents:
+      - text: Visor Escaner
+  "[0552A456]_ScreenshotSource":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Metróide Prime
+  "[0552A456]_SpacePirate":
+    attributes: ""
+    contents:
+      - text: Dados piratas
+  "[0552A456]_ThardusBoost":
+    attributes: ""
+    contents:
+      - text: Use a Esfera Acelerada para seguir seu caminho.
+  "[0552A456]_ThermalVisorOverload":
+    attributes: ""
+    contents:
+      - text: "Visor Térmico sobrecarregado.\nAltere para o Visor de Combate."
+  "[0552A456]_ThermoVisor":
+    attributes: ""
+    contents:
+      - text: Visor Térmico
+  "[0552A456]_ThreatDamage":
+    attributes: "[NotUsed]"
+    contents:
+      - text: Dano
+  "[0552A456]_ThreatProximity":
+    attributes: "[NotUsed]"
+    contents:
+      - text: Alerta
+  "[0552A456]_WaveBeam":
+    attributes: ""
+    contents:
+      - text: Raio Ondular
+  "[0552A456]_XRayVisor":
+    attributes: ""
+    contents:
+      - text: Visor de raio X
+  "[0552A456]_Yes":
+    attributes: ""
+    contents:
+      - text: Sim
+  "[0B6267A0]_Boss0ParasiteQueen":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_Boss1Flagra":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_Boss2Thardus":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_Boss3OmegaPirate":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_Boss4Ridley":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_Boss5MetroidPrime":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_CombatVisor":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_DownloadedMessage":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_DownloadingMessage":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_EnergyLow":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_IceBeam":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_MissileDepleted":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_MissileWarning":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_PlasmaBeam":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_PowerBeam":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_ScanOutOfRangeMessage":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_ScanVisor":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_ThermoVisor":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_ThreatDamage":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_ThreatProximity":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_WaveBeam":
+    attributes: ""
+    contents: []
+  "[0B6267A0]_XRayVisor":
+    attributes: ""
+    contents: []
+  "[19C3F7F7]_ChoiceCancel":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Cancelar
+  "[19C3F7F7]_ChoiceContinueWithWarning":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Continuar
+  "[19C3F7F7]_ChoiceContinueWithoutSave":
+    attributes: ""
+    contents:
+      - text: Continuar sem salvar
+  "[19C3F7F7]_ChoiceDeleteCorruptedFile":
+    attributes: ""
+    contents:
+      - text: Apagar arquivo ruim
+  "[19C3F7F7]_ChoiceNo":
+    attributes: ""
+    contents:
+      - text: Não
+  "[19C3F7F7]_ChoiceRetry":
+    attributes: ""
+    contents:
+      - text: Recomeçar
+  "[19C3F7F7]_ChoiceSave":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Salvar
+  "[19C3F7F7]_ChoiceYes":
+    attributes: ""
+    contents:
+      - text: Sim
+  "[19C3F7F7]_CorruptedFile":
+    attributes: ""
+    contents:
+      - text: "O arquivo está ruim\ne não pode ser usado."
+  "[19C3F7F7]_EncodingMismatch":
+    attributes: ""
+    contents:
+      - text: "O arquivo está ruim\ne não pode ser usado."
+  "[19C3F7F7]_SaveFile":
+    attributes: ""
+    contents:
+      - text: Deseja salvar?
+  "[19C3F7F7]_SaveFileEndGame":
+    attributes: ""
+    contents:
+      - text: "Ao salvar agora, irá acabar\ncom Metroid Prime Remastered.\nAo selecionar este arquivo novamente,\nvocê irá começar um novo jogo.\n\nDeseja salvar?"
+  "[19C3F7F7]_StatusWriting":
+    attributes: ""
+    contents:
+      - text: Salvando. Não toque no botão POWER.
+  "[19C3F7F7]_TitleWarning":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: "Aviso\n\n"
+  "[398D1DEC]_000":
+    attributes: ""
+    contents:
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 65535
+      - text: "￿Rastreamento do alvo inimigo perdido.\nReconhecimento terrestre necessário.\nIniciando sequência de pouso."
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: ＀
+  "[398D1DEC]_001":
+    attributes: "[NotUsed]"
+    contents: []
+  "[500EC6A0]_Artifacts":
+    attributes: ""
+    contents:
+      - text: Artefatos
+  "[500EC6A0]_BackButton":
+    attributes: "[REFERENCED]"
+    contents:
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 52509
+  "[500EC6A0]_BackButtonPressed":
+    attributes: "[REFERENCED]"
+    contents:
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 46
+              field_2: 5505066
+      - text: "XTR_PauseBackPressed\u0001"
+  "[500EC6A0]_BeamCategory":
+    attributes: ""
+    contents:
+      - text: Canhões
+  "[500EC6A0]_BeamCombo":
+    attributes: ""
+    contents:
+      - text: Corrente de Raios
+  "[500EC6A0]_BeamComboDescription":
+    attributes: ""
+    contents:
+      - text: "As "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Correntes com raios
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ permitem você usar o Lança Mísseis e o Canhão. Os dois combinados são mais fortes que os ataques normais.\n\nO canhão deve ser carregado para usá-lo.\n\nQuando seu Canhão estiver carregado, aperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149638
+      - text: "para fazer uma Corrente de raio.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nUma "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿;Corrente de raios
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀  só podem ser usados um de cada vez. Cada tiro gasta um certo número de mísseis.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Corrente de raios
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ frenéticas estarão disponíveis enquanto você tiver mísseis. Segure "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149680
+      - text: "depois de você atirar. É necessários 10 mísseis para ativar essas combinações e 5 mísseis para cada disparo seguinte.\n\nDesça para mais informações de cada Combinação de raios.\n\nEsses dados serão baixados para o Diário de Bordo após cada Corrente de raio for adquirida.\n\n\n\n\n\n\n"
+  "[500EC6A0]_Bomb":
+    attributes: ""
+    contents:
+      - text: Bomba
+  "[500EC6A0]_BombDescription":
+    attributes: ""
+    contents:
+      - text: "A "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Bomba
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ é a arma padrão para a Forma Esférica.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149680
+      - text: "quando estiver na Forma Esférica para soltar uma bomba.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nA Bomba pode ser usada para quebrar parede rachadas e ativar certos dispositivos.\n\nSe estiver na Forma Esférica e perto de uma bomba quando ela explodir, você será lançado em uma pequena distância no ar. Isso é chamado de "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Pulo na Esfera
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀.\n\nQuando uma bomba explodir, deve estar perto de um inimigo para obter dano\n\nA bomba pode quebrar fácilmente itens feitos de "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Arenito
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ ou "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Liga Talloric
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: ＀.
+  "[500EC6A0]_BoostBall":
+    attributes: ""
+    contents:
+      - text: Esfera Acelerada
+  "[500EC6A0]_BoostBallDescription":
+    attributes: ""
+    contents:
+      - text: "A "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Esfera Acelerada
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ pode ser usada para aumentar a velocidade da Forma Esférica por alguns segundos.\n\nSegure "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149681
+      - text: "para carregá-la e solte-o para uma aceleração instantânea.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nQuando estiver carregando, quanto mais você segurar "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2936113
+      - text: " mais longa e rápida será a aceleração.\n\nVocê encontrará canais em forma de U chamados de canos cortados pelo ambiente. Usar a Esfera Acelerada nessas áreas deixará você chegar em lugares mais altos.\n\nComece a carregar durante sua descida no cano, use-a quando você começar a subir. Isto dará mais velocidade e impulso para você chegar em novas alturas.\n"
+  "[500EC6A0]_ChargeBeam":
+    attributes: ""
+    contents:
+      - text: Raio Carregável
+  "[500EC6A0]_ChargeBeamDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Raio Carregável
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ permite o aumento do dano e eficaz do Canhão.\n\nSegure "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149680
+      - text: "para carregar o Canhão, depois solte para atirar.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nO Raio Carregável tem uma pequena capacidade de atração. Pode ser muito útil para atrair objetos.\n\nHá melhorias com combinação de raio espalhadas pelo ambiente. Eles usam o Lança Mísseis e o Raio Carregável juntos para criar explosões mais poderosas.\n\nO Raio Carregável aumenta o desempenho de todos os módulos do Canhão.\n"
+  "[500EC6A0]_ChozoLore":
+    attributes: ""
+    contents:
+      - text: Legado Chozo
+  "[500EC6A0]_CombatVisor":
+    attributes: ""
+    contents:
+      - text: Visor de Combate
+  "[500EC6A0]_CombatVisorDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Visor de Combate
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ é o seu visor padrão. Ele fornece uma Interface de usuário (IU) com sonar, mini mapa, travamento de mira, avaliação de ameaça, medidor de energia e contagem de Mísseis.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149649
+      - text: para selecionar o Visor de Combate.
+  "[500EC6A0]_ControllerOptions":
+    attributes: ""
+    contents:
+      - text: Controle
+  "[500EC6A0]_Creatures":
+    attributes: ""
+    contents:
+      - text: Criaturas
+  "[500EC6A0]_DisplayOptions":
+    attributes: ""
+    contents:
+      - text: Tela
+  "[500EC6A0]_EmptyBeamComboDescription":
+    attributes: ""
+    contents:
+      - text: "[??????]\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  "[500EC6A0]_EnergyTank":
+    attributes: ""
+    contents:
+      - text: Tanque de Energía
+  "[500EC6A0]_EnergyTankDescription":
+    attributes: ""
+    contents:
+      - text: "Os "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Tanques de Energia
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ aumentam a capacidade do seu escudo defensivo.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nCada Tanque de Energia aumenta a energia do traje por 100 unidades. Quanto mais energia seu traje tiver, maior chance você terá de sobreviver.\n\nOs tanques de energia podem ser recarregados em estações de salvamento ou na Nave."
+  "[500EC6A0]_EnglishHudOption":
+    attributes: ""
+    contents: []
+  "[500EC6A0]_ExitButton":
+    attributes: "[REFERENCED]"
+    contents:
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 52503
+  "[500EC6A0]_ExitButtonPressed":
+    attributes: "[REFERENCED]"
+    contents:
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 46
+              field_2: 5505066
+      - text: "XTR_PauseExitPressed\u0001"
+  "[500EC6A0]_Gameplay":
+    attributes: ""
+    contents:
+      - text: Pesquisas
+  "[500EC6A0]_GrappleBeam":
+    attributes: ""
+    contents:
+      - text: Gancho Magnético
+  "[500EC6A0]_GrappleBeamDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Gancho Magnético
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ permite você balançar em pontos especiais no ambiente.  \n\nLugares para usar o gancho aparecem em seu visor como "
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 38
+              field_2: 5505058
+      - text: "XTR_GlyphGrapple\u0001.\n\nSegure "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149643
+      - text: "para lançar o Gancho Magnético.\n\nSegure "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149643
+      - text: "para ficar conectado; solte para se soltar.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nO Gancho Magnético pode ser usado para atravessar grandes lacunas.\n\nUse "
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 54
+              field_2: 5505074
+      - text: XTR_LStickLeftRight_Anim enquanto estiver conectado para balançar.
+  "[500EC6A0]_GravitySuit":
+    attributes: ""
+    contents:
+      - text: Traje Gravitacional
+  "[500EC6A0]_GravitySuitDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Traje Gravitacional
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ elimina os efeitos de líquido ao se movimentar.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nEssa modificação aumenta seu escuso defensivo.\n\nO Traje Gravitacional permite movimentação melhorado em ambiente não sólido, mas não reduze o dano causado se for exposto em fluídos perigosos.\n\nModificações no visor com o Traje Gravitacional facilita a visão debaixo d'água."
+  "[500EC6A0]_HelmetOpacityOption":
+    attributes: ""
+    contents:
+      - text: Visibilidade do Visor
+  "[500EC6A0]_HudLagOption":
+    attributes: ""
+    contents:
+      - text: Oscilação da HUD
+  "[500EC6A0]_HudLanaguageEnglish":
+    attributes: ""
+    contents: []
+  "[500EC6A0]_HudLanaguageJapanese":
+    attributes: ""
+    contents: []
+  "[500EC6A0]_HudOpacityOption":
+    attributes: ""
+    contents:
+      - text: Opacidade do visor
+  "[500EC6A0]_HudOptions":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Visor
+  "[500EC6A0]_IceBeam":
+    attributes: ""
+    contents:
+      - text: Raio de Gelo
+  "[500EC6A0]_IceBeamCombo":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Difusor de Gelo
+  "[500EC6A0]_IceBeamComboDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Difusor de Gelo
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ é uma combinação com o Raio de "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Gelo
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀. Pode congelar inimigos em uma grande área.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nO Espalhador de Gelo é uma combinação de tiro carregado com mísseis. Cada tiro gasta 10 mísseis.\n\nO Espalhador de Gelo é limitado contra inimigos aéreos.\n"
+  "[500EC6A0]_IceBeamDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Raio de Gelo
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ pode congelar inimigos em gelo sólido. Tiros do Raio de Gelo podem deixar inimigos lentos.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149640
+      - text: "para ativa-lo.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nUse o Raio do Gelo para abrir "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 65535
+      - text: ￿Portas Brancas
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: ＀ (
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 32
+              field_2: 5505052
+      - text: "XTR_WhiteDoor\u0001).\n\nO Raio de Gelo é bem eficaz contra criaturas de fogo.\n\nCarregue o Raio de Gelo para aumentar o tempo que o inimigo ficará congelado.\n\nAlguns inimigos congelados podem ser despedaçados com mísseis.\n"
+  "[500EC6A0]_InventoryScreenInstructionPanelLabel":
+    attributes: ""
+    contents:
+      - text: INVENTÁRIO
+  "[500EC6A0]_InventoryScreenTitle":
+    attributes: ""
+    contents:
+      - text: Inventário
+  "[500EC6A0]_LegendBack":
+    attributes: ""
+    contents:
+      - text: VOLTAR
+  "[500EC6A0]_LegendExit":
+    attributes: ""
+    contents:
+      - text: SAIR
+  "[500EC6A0]_LegendNext":
+    attributes: ""
+    contents:
+      - text: CONFIRMAR
+  "[500EC6A0]_LockOnFreeAim":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: "Bloquear/\nMira"
+  "[500EC6A0]_LogBookScreenInstructionPanelLabel":
+    attributes: ""
+    contents:
+      - text: DIÁRIO
+  "[500EC6A0]_LogScreenTitle":
+    attributes: ""
+    contents:
+      - text: Diário
+  "[500EC6A0]_MissileLauncher":
+    attributes: ""
+    contents:
+      - text: Lança Mísseis
+  "[500EC6A0]_MissileLauncherDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Lança-Mísseis
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ adiciona uma funcionalidade balística ao Canhão.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149638
+      - text: " para usar o Lança Mísseis. Aperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149680
+      - text: "para voltar ao modo raio.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿;Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nMísseis disparados com a mira travada vão seguir seus alvos.\n\nMísseis podem destruir objetos feitos de "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Radion
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ ou "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Enxofre
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀.\n\nHá melhoras com combinação de raio espalhadas pelo ambiente. Eles usam o Lança Mísseis e o Raio Carregável juntos para criar explosões mais poderosas.\n\nCada Expansor de Mísseis que você encontra aumenta o número de mísseis que você carrega por 5.\n"
+  "[500EC6A0]_MorphBall":
+    attributes: ""
+    contents:
+      - text: Forma Esférica
+  "[500EC6A0]_MorphBallCategory":
+    attributes: ""
+    contents:
+      - text: Forma Esférica
+  "[500EC6A0]_MorphBallDescription":
+    attributes: ""
+    contents:
+      - text: "A "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Forma Esférica
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ transforma seu traje em uma esfera compacta e móvel.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149651
+      - text: "para ativa-la.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149652
+      - text: "para desativa-la.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nAssim como o Traje, a Forma Esférica é modular. Existe modificações que podem ser adicionadas para melhorar o desempenho dela."
+  "[500EC6A0]_MusicVolumeOption":
+    attributes: ""
+    contents:
+      - text: Músicas
+  "[500EC6A0]_NextButton":
+    attributes: "[REFERENCED]"
+    contents:
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 52508
+  "[500EC6A0]_NextButtonPressed":
+    attributes: "[REFERENCED]"
+    contents:
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 46
+              field_2: 5505066
+      - text: "XTR_PauseNextPressed\u0001"
+  "[500EC6A0]_Off":
+    attributes: ""
+    contents:
+      - text: Não
+  "[500EC6A0]_On":
+    attributes: ""
+    contents:
+      - text: Sim
+  "[500EC6A0]_OptionsScreenInstructionPanelLabel":
+    attributes: ""
+    contents:
+      - text: OPÇÕES
+  "[500EC6A0]_OptionsTitle":
+    attributes: ""
+    contents:
+      - text: Opções
+  "[500EC6A0]_PhazonBeam":
+    attributes: ""
+    contents:
+      - text: Raio de Phazon
+  "[500EC6A0]_PhazonBeamDescription":
+    attributes: ""
+    contents:
+      - text: "A corrupção viral do Traje alterou o Canhão também. Agora você pode usar o poderoso "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Raio de Phazon
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀.\n \n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nParece que o Raio de Phazon é ativado em presença de grande concentração de Phazon.\n\nO Canhão padrão volta quando não houver Phazon presente.\n\nO tiro carregado também não funciona quando o Raio de Phazon está ativo."
+  "[500EC6A0]_PhazonSuit":
+    attributes: ""
+    contents:
+      - text: Traje Phazon
+  "[500EC6A0]_PhazonSuitDescription":
+    attributes: ""
+    contents:
+      - text: "O Traje foi corrompido pela exposição viral, transformando ele no "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Traje Phazon
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nO corrupção viral do Traje de Proteção tem alguns efeitos colaterais benéficos.\n\nAgora o traje tem resistência ao efeitos de Phazon azul. Porém ele não é resistente com todos os tipos de Phazon.\n\nAlém da resistência ao Phazon, a corrupção aumentou dramáticamente o escudo defensivo."
+  "[500EC6A0]_PlasmaBeam":
+    attributes: ""
+    contents:
+      - text: Raio de Plasma
+  "[500EC6A0]_PlasmaBeamCombo":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Lança Chamas
+  "[500EC6A0]_PlasmaBeamComboDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Lança Chamas
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ é uma combinação com o Raio de "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Plasma
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀. Você pode acertar vários alvos se mirar bem.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nO Lancha Chamas é uma combinação de tiro carregado com mísseis. É gasto 10 mísseis para ativar e 5 por segundo.\n\nO Lancha Chamas é mais eficaz contra vários inimigos em uma área.\n"
+  "[500EC6A0]_PlasmaBeamDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Raio de Plasma
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ dispara correntes de energia fundida. Esse raio pode inflamar objetos e inimigos.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149642
+      - text: "para ativa-lo.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nUse o Raio de Plasma para abrir "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 2815
+      - text: ＊Portas Vermelhas
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: ＀ (
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2739512
+      - text: ".\n\nO Raio de Plasma é muito eficaz contra criaturas de gelo.\n\nCarregue o Raio de Plasma para disparar uma esfera de plasma. Inimigos pegos por essa esfera serão envolvido em chamas por alguns segundos."
+  "[500EC6A0]_PowerBeam":
+    attributes: ""
+    contents:
+      - text: Raio
+  "[500EC6A0]_PowerBeamCombo":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Super Míssil
+  "[500EC6A0]_PowerBeamComboDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Super Míssil
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ é uma combinação com o "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Raio
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nO Super Míssil é uma combinação de tiro carregado com mísseis. Cada tiro gasta 5 mísseis.\n\nSuper Mísseis podem destruir objetos feitos de "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Cordite
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀.\n"
+  "[500EC6A0]_PowerBeamDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Raio
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ é o Canhão padrão. Ele tem a melhor cadência de tiro.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149639
+      - text: "para ativa-lo.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nO Raio pode ser usado para abrir as portas azuis.\n\nSeu tiro será inútil quando ricochetear no alvo.\n\nO Raio é útil para limpar uma área de inimigos fracos.\n"
+  "[500EC6A0]_PowerBomb":
+    attributes: ""
+    contents:
+      - text: Bomba Potente
+  "[500EC6A0]_PowerBombDescription":
+    attributes: ""
+    contents:
+      - text: "A "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Bomba Potente
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ é a arma mais potente da Forma Esférica.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149638
+      - text: "quando estiver na Forma Esférica para soltar a Bomba Potente.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nBombas Potentes não são infinitas. Use-as sábiamente.\n\nA Bombas Potentes pode destruir muitos materiais, incluindo "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Bendezium
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀.\n\nCada Expansor de Bomba potente encontrado aumenta a capacidade de Bombas Potentes por 1.\n"
+  "[500EC6A0]_PowerSuit":
+    attributes: ""
+    contents:
+      - text: Traje
+  "[500EC6A0]_PowerSuitDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Traje
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ é um exoesqueleto Chozo avançado modificado especialmente para Samus Aran.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nO Traje fornece funções de suporte de vida e é bem protegido de ataques.\n\nA natureza modular do Traje de Proteção permite a adição de armas, visores e outras peças quando necessários.\n\nA defesa do Traje cai com cada ataque recebido; colete energia quando possível para manter o escudo carregado.\n"
+  "[500EC6A0]_QuestionMarks":
+    attributes: ""
+    contents:
+      - text: "??????"
+  "[500EC6A0]_QuitGameOption":
+    attributes: ""
+    contents:
+      - text: Sair
+  "[500EC6A0]_RedundantHintOption":
+    attributes: ""
+    contents:
+      - text: Dicas
+  "[500EC6A0]_RestoreDefaultOption":
+    attributes: ""
+    contents:
+      - text: "Restaurar\npadrão"
+  "[500EC6A0]_ReverseJumpFireControls":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Alterar pular/atirar
+  "[500EC6A0]_SFXVolumeOption":
+    attributes: ""
+    contents:
+      - text: Efeitos
+  "[500EC6A0]_ScanVisor":
+    attributes: ""
+    contents:
+      - text: Visor Escaner
+  "[500EC6A0]_ScanVisorDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Visor Escaner
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ é usado para coletar dados. Alguns dispositivos serão ativados quando escaneados.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149648
+      - text: "para selecionar o Visor Escaner. Leve o visor sobre os alvos com esse símbolo "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149690
+      - text: "depois aperte e segure "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149650
+      - text: "para escanear. \n\nUse "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149680
+      - text: "para desligar o visor.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nAlvos de escaneamento essenciais para a missão "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149691
+      - text: "estarão em vermelho.\n\nEscanear inimigos com esse visor pode revelar suas fraquezas.\n\nVocê não poderá usar nenhuma arma de fogo com esse visor ativo.\n\nDados escaneados vitais para a missão são baixados e armazenados na seção "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Diário
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ na tela de pausa.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149677
+      - text: nessa tela para acessar o Diário.
+  "[500EC6A0]_SecondaryItemsCategory":
+    attributes: ""
+    contents:
+      - text: Itens Secundários
+  "[500EC6A0]_Sensitivity":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Sensibilidade
+  "[500EC6A0]_ShiftLeftButton":
+    attributes: "[REFERENCED]"
+    contents:
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 52524
+  "[500EC6A0]_ShiftLeftButtonPressed":
+    attributes: "[REFERENCED]"
+    contents:
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 42
+              field_2: 5505062
+      - text: "XTR_ZoomOutPressed\u0001"
+  "[500EC6A0]_ShiftRightButton":
+    attributes: "[REFERENCED]"
+    contents:
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 52525
+  "[500EC6A0]_ShiftRightButtonPressed":
+    attributes: "[REFERENCED]"
+    contents:
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 40
+              field_2: 5505060
+      - text: "XTR_ZoomInPressed\u0001"
+  "[500EC6A0]_SoundOptions":
+    attributes: ""
+    contents:
+      - text: Som
+  "[500EC6A0]_SpaceJumpBoots":
+    attributes: ""
+    contents:
+      - text: Botas de Pulo Espacial
+  "[500EC6A0]_SpaceJumpBootsDescription":
+    attributes: ""
+    contents:
+      - text: "As "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Botas de Pulo Espacial
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ aumentam a capacidade de pular do Traje de Proteção com o uso de botas propulsoras.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149637
+      - text: "para pular, depois aperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149637
+      - text: "de novo para usar as botas propulsoras.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nO tempo é importante quando se usa as Botas de Pulo Espacial.\n\nExperimento para descobrir maneiras de aumentar a altura e comprimento de seus pulos.\n"
+  "[500EC6A0]_SpacePirate":
+    attributes: ""
+    contents:
+      - text: Dados dos Piratas
+  "[500EC6A0]_SpiderBall":
+    attributes: ""
+    contents:
+      - text: Esfera Aderente
+  "[500EC6A0]_SpiderBallDescription":
+    attributes: ""
+    contents:
+      - text: "A "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Esfera Aderente
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ permite você usa a Forma Esférica em trilhos magnéticos.\n\nSegure "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149644
+      - text: "para ativar a funcionalidade da Esfera Aderente\n \n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nSiga os trilhos magnéticos para explorar novas áreas.\n\nAs bombas são usadas para pular quando um trilho magnético está sendo usado."
+  "[500EC6A0]_SuitsCategory":
+    attributes: ""
+    contents:
+      - text: Trajes
+  "[500EC6A0]_SwichVisorBeamOption":
+    attributes: ""
+    contents:
+      - text: "Inverter Raios e\nVisores"
+  "[500EC6A0]_SwichVisorBeamOption_00":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: "Inverter Visores e\nRaios"
+  "[500EC6A0]_ThermalVisor":
+    attributes: ""
+    contents:
+      - text: Visor Térmico
+  "[500EC6A0]_ThermoVisorDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Visor Térmico
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ permite que você veja através de certos materiais.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149647
+      - text: "para selecionar o Visor Térmico.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nO Visor Térmico vai mostrar pontos fracos de certos inimigos.\n\nSe usa para ver en total oscuridad y en condiciones atmosféricas adversas.\n\nÁreas bem iluminadas, explosões e calor intenso pode prejudicar a Visor Térmico.\n\nInimigos com temperaturas parecidas com o ambiente serão difíceis de serem vistos."
+  "[500EC6A0]_TrophyMode":
+    attributes: ""
+    contents:
+      - text: Zoom
+  "[500EC6A0]_VariaSuit":
+    attributes: ""
+    contents:
+      - text: Traje Climático
+  "[500EC6A0]_VariaSuitDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Traje Climático
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ adiciona maior resistência à temperaturas ao Traje.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nEssa modificação aumenta seu escudo defensivo.\n\nEnquanto o Traje Climático pode lidar com temperaturas mais elevadas do que o normal, fontes de calor extremas e ataques de calor extremos ainda vão causar danos."
+  "[500EC6A0]_VisorBeamSwitchOff":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Não
+  "[500EC6A0]_VisorBeamSwitchOn":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Sim
+  "[500EC6A0]_VisorsCategory":
+    attributes: ""
+    contents:
+      - text: Visores
+  "[500EC6A0]_WaveBeam":
+    attributes: ""
+    contents:
+      - text: Raio Ondular
+  "[500EC6A0]_WaveBeamCombo":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Ultra Onda
+  "[500EC6A0]_WaveBeamComboDescription":
+    attributes: ""
+    contents:
+      - text: "A "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Ultra Onda
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ é uma combinação com o Raio "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Ondular
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀. Essa explosão potente procura os alvos na área sozinho.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nO Caçador Ondular é uma combinação de tiro carregado com mísseis. É gasto 10 mísseis para ativar e 5 por segundo.\n\nO Caçador Ondular vai procurar inimigos sem precisar da mira travada.\n\n\n\n\n\n\n\n\n\n"
+  "[500EC6A0]_WaveBeamDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Raio Ondular
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ dispara ondas elétricas. Esse raio também tem tiro teleguiado, porém limitado.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149641
+      - text: "para ativar-lo.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿;Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nUse o Raio Ondular para abrir "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 11146
+      - text: ￢Portas Roxas
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: ＀ (
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2739511
+      - text: ".\n\nO raio Ondular não vai seguir os alvos se a mira não estiver travada. Aperte e segure "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149643
+      - text: "para travar a mira.\n\nCarregue o Raio Ondular para disparar uma grande explosão elétrica. Inimigos pegos pela explosão serão envolvidos por raios elétricos por alguns segundos."
+  "[500EC6A0]_XRayVisor":
+    attributes: ""
+    contents:
+      - text: Visor de Raio-X
+  "[500EC6A0]_XRayVisorDescription":
+    attributes: ""
+    contents:
+      - text: "O "
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: ￿Visor de Raio-X
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀ pode ver através de certos tipos de materiais.\n\nAperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149646
+      - text: "para selecionar o Visor de Raio-X.\n\n"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 54921
+      - text: "￿Notas da Samus:"
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: "＀\nO Visor de Raio-X pode revelar itens, áreas e inimigos invisiveis.\n\nInimigos robóticos podem interferir na frequência do visor de Raio-X. Elimine-os para restaurar a função do visor."
+  "[500EC6A0]_ZoomButton":
+    attributes: "[REFERENCED]"
+    contents:
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 52521
+  "[6A403A19]_Boss0ParasiteQueen":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Rainha Parasita
+  "[6A403A19]_Boss1Flagra":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Flaahgra
+  "[6A403A19]_Boss2Thardus":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Thardus
+  "[6A403A19]_Boss3OmegaPirate":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Pirata Ômega
+  "[6A403A19]_Boss4Ridley":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Meta Ridley
+  "[6A403A19]_Boss5MetroidPrime":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: Metróide Prime
+  "[6A403A19]_CombatVisor":
+    attributes: ""
+    contents:
+      - text: Visor de combate
+  "[6A403A19]_DownloadedMessage":
+    attributes: ""
+    contents:
+      - text: Concluído.
+  "[6A403A19]_DownloadingMessage":
+    attributes: ""
+    contents:
+      - text: Escaneando...
+  "[6A403A19]_EnergyLow":
+    attributes: ""
+    contents:
+      - text: Energia Baixa
+  "[6A403A19]_IceBeam":
+    attributes: ""
+    contents:
+      - text: Raio de Gelo
+  "[6A403A19]_MissileDepleted":
+    attributes: ""
+    contents:
+      - text: Vazio
+  "[6A403A19]_MissileWarning":
+    attributes: ""
+    contents:
+      - text: "Poucos\nmísseis"
+  "[6A403A19]_PlasmaBeam":
+    attributes: ""
+    contents:
+      - text: Raio de Plasma
+  "[6A403A19]_PowerBeam":
+    attributes: ""
+    contents:
+      - text: "Raio "
+  "[6A403A19]_ScanOutOfRangeMessage":
+    attributes: ""
+    contents:
+      - text: Item fora de alcance.
+  "[6A403A19]_ScanVisor":
+    attributes: ""
+    contents:
+      - text: Visor Escaner
+  "[6A403A19]_ThermoVisor":
+    attributes: ""
+    contents:
+      - text: Visor Térmico
+  "[6A403A19]_ThreatDamage":
+    attributes: ""
+    contents:
+      - text: Dano
+  "[6A403A19]_ThreatProximity":
+    attributes: ""
+    contents:
+      - text: Alerta
+  "[6A403A19]_WaveBeam":
+    attributes: ""
+    contents:
+      - text: Raio Ondular
+  "[6A403A19]_XRayVisor":
+    attributes: ""
+    contents:
+      - text: Visor de raios X
+  "[95019A7A]_HardModeUnlocked":
+    attributes: ""
+    contents:
+      - text: Modo difícil desbloqueado!
+  "[95019A7A]_MainText":
+    attributes: ""
+    contents:
+      - text: M I S S Ã O  C O N C L U I D A
+  "[95019A7A]_MessageContinue":
+    attributes: "[REFERENCED]"
+    contents:
+      - text: "Aperte "
+      - control:
+          kind: raw
+          one:
+            zero:
+              field_1: 2
+              field_2: 2149660
+      - text: para continuar.
+  "[95019A7A]_PercentageComplete":
+    attributes: ""
+    contents:
+      - text: "Porcentagem concluída: {0} %"
+  "[95019A7A]_TotalTime":
+    attributes: ""
+    contents:
+      - text: "Tempo total: {0}:{1}"
+  "[C5F409E5]_000":
+    attributes: ""
+    contents:
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 65535
+      - text: "￿Desabamento da Cratera iminente. \nEvacuar imediatamente."
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: ＀
+  "[C5F409E5]_001":
+    attributes: "[NotUsed]"
+    contents: []
+  "[CEDB5BA7]_000":
+    attributes: ""
+    contents:
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 65535
+      - text: "￿Sinal de emergência não identificado recebido\nde uma nave espacial abandonada\nem órbita com Tallon IV.."
+      - control:
+          kind: raw
+          zero:
+            three:
+              field_1: 4
+              field_2: 0
+      - text: ＀
+  "[CEDB5BA7]_001":
+    attributes: "[NotUsed]"
+    contents: []
