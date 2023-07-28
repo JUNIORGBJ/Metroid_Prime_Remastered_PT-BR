@@ -1,4 +1,5 @@
 > Status do Projeto: :heavy_check_mark: (Em andamento)
+## BAIXAR :link: [v0.2-alpha](https://github.com/JUNIORGBJ/Metroid_Prime_Remastered_PT-BR/releases/download/v0.2-alpha/Metroid_Prime_Remastered_NINTENDO.SWITCH.v0.2-alpha.zip))
 
 <h1 align="center"><figure>
   <img src="Metroid_Prime_Remastered.png">
@@ -6,7 +7,12 @@
 
 ## :small_blue_diamond:Sobre a Tradução.
 
-_ "Tradução do Jogo para Nintendo Switch por Traduções GBJ" _
+⚠Adaptação/Port/Tradução, devido a complexidade dos arquivos da tradução para Game Cube⚠
+
+_ "Adaptação/Port/Tradução do Jogo para Nintendo Switch por Traduções GBJ" _
+
+_ "Tradução do Jogo para Game Cube por BR Traduções" _
+
 
 ## :small_blue_diamond:Por quê?
 
