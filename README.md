@@ -7,7 +7,11 @@
 
 ## :small_blue_diamond:Sobre a Tradução.
 
-_ "Tradução do Jogo para Nintendo Switch por Traduções GBJ" _
+Adaptação/Port/Tradução, devido a complexibilidade dos arquivos da tradução para Game Cube.
+
+_ "Adaptação/Port/Tradução do Jogo para Nintendo Switch por Traduções GBJ" _
+_ "Tradução do Jogo para Game Cube por BR Traduções" _
+
 
 ## :small_blue_diamond:Por quê?
 
