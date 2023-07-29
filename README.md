@@ -1,5 +1,5 @@
 > Status do Projeto: :heavy_check_mark: (Em andamento)
-## BAIXAR :link: [v0.2-alpha](https://github.com/JUNIORGBJ/Metroid_Prime_Remastered_PT-BR/releases/download/v0.2-alpha/Metroid_Prime_Remastered_NINTENDO.SWITCH.v0.2-alpha.zip))
+## BAIXAR :link: [v0.3-alpha](https://github.com/JUNIORGBJ/Metroid_Prime_Remastered_PT-BR/releases/download/v0.3-alpha/Metroid_Prime_Remastered_NINTENDO.SWITCH.v0.3-alpha.zip)
 
 <h1 align="center"><figure>
   <img src="Metroid_Prime_Remastered.png">
