@@ -32,6 +32,6 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## :small_blue_diamond:Doações
 
-[![Picpay](https://i.ibb.co/cYcsCnZ/hhhh.png)](https://picpay.me/gilsongbj)
+[![Picpay](https://i.ibb.co/cYcsCnZ/hhhh.png)](https://picpay.me/gilsongbj)Chave PIX: gilson.gbj@gmail.com[![Pix](https://i.ibb.co/1r1ghj3/Pix.png)](https://github.com/JUNIORGBJ/Fatal_Frame_Maiden_of_Black_Water_PT-BR)
 
 Obrigado!:wave:
