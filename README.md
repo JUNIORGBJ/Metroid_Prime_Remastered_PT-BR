@@ -1,4 +1,4 @@
-> Status do Projeto: :heavy_check_mark: (Em andamento)
+> Status do Projeto: :heavy_check_mark: (Concluído)
 ## BAIXAR :link: [v1.0](https://github.com/JUNIORGBJ/Metroid_Prime_Remastered_PT-BR/releases/download/v1.0/Metroid_Prime_Remastered_NINTENDO.SWITCH.v1.0.zip)
 
 <h1 align="center"><figure>
