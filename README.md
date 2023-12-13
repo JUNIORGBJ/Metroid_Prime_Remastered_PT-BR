@@ -1,4 +1,4 @@
-> Status do Projeto: :heavy_check_mark: (Concluído 100% e Revisado) 
+> Status do Projeto: ✅ (Concluído 100% e Revisado) 
 ## BAIXAR SWITCH :link: [v1.2](https://github.com/JUNIORGBJ/Metroid_Prime_Remastered_PT-BR/releases/download/v1.2/Metroid_Prime_Remastered_NINTENDO.SWITCH.v1.2.zip)
 ## BAIXAR YUZU :link: [v1.2](https://github.com/JUNIORGBJ/Metroid_Prime_Remastered_PT-BR/releases/download/v1.2/Metroid_Prime_Remastered_Yuzu.v1.2.zip)
 
